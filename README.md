@@ -1,1 +1,1 @@
-# Kiemtrathuchanh
+Bai kiem tra thuc hanh
